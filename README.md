@@ -1,2 +1,2 @@
 # testShallowClone
-version 9
+version 10
